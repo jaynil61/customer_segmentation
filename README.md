@@ -1,5 +1,6 @@
 # Customer Segmentation Web-App
 
+**Web-app link:** https://customersegmentation-lxdes4ncd8qy9ucuthgjnk.streamlit.app/
 ## Overview
 This project involves building a **Customer Segmentation App** using RFM (Recency, Frequency, Monetary) analysis. The app categorizes customers into three segments based on their purchasing behavior: **Occasional Spenders**, **Moderate Buyers**, and **Active Customers**. The segmentation helps in understanding customer behavior and optimizing marketing strategies.
 
